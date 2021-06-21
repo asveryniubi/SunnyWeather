@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--定义登录界面上项目名称的字体及定位的尺寸-->
+    <dimen name="layout_login_project_name_dimen">47sp</dimen>
+
+    <dimen name="layout_login_project_name_top">120sp</dimen>
+    <!--定义登录界面上用户名和密码的字体尺寸-->
+    <dimen name="layout_login_name_password_dimen">27sp</dimen>
+</resources>
